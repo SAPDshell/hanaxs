@@ -1,0 +1,7 @@
+{
+  "name": "hanaxs",
+  "main": "lib/deployment.js",
+  "version": "0.1.0",
+  "description": "Deployment strategy hanaxs",
+  "repository": {"type": "git", "url": "git@github.com:apphouse-sap/hanaxs.git"}
+}
