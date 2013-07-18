@@ -1,3 +1,9 @@
+Deployment Strategy for deploying HTML/JavaScript code to a HANA System using the SAP Dshell
+
+
+
+
+
 Copyright 2013, SAP AG
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,7 +21,7 @@ limitations under the License.
 
 
 
-Deployment Strategy for deploying HTML/JavaScript code to a HANA System using the SAP Dshell
+
 
 
 
